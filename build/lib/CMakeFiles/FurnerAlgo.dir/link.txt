@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libFurnerAlgo.a CMakeFiles/FurnerAlgo.dir/Driver.cpp.o CMakeFiles/FurnerAlgo.dir/searchInterface.cpp.o CMakeFiles/FurnerAlgo.dir/sortInterface.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libFurnerAlgo.a

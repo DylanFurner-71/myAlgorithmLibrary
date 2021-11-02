@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en-us">
+<div id="container">
+  <script src="testets.js"></script>
+  <script>
+    var result = Module.onRuntimeInitialized = () => {
+      let test = new Module.Driver()
+      test.Drive()
+    }
+  </script>
+</div>
+</html>
+
+

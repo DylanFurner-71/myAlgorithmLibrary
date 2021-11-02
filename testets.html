@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="en-us">
+<div id="container">
+  <script src="testets.js"></script>
+  <script>
+    var result = Module.onRuntimeInitialized = () => {
+      let test = new Module.sortInterface()
+      test.runTestsSort()
+      test.printResults()
+    }
+  </script>
+</div>
+</html>
+
+

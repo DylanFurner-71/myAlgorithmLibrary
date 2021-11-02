@@ -1,0 +1,6 @@
+#ifndef FURNERALGO_LIBRARY_H
+#define FURNERALGO_LIBRARY_H
+
+void hello();
+
+#endif //FURNERALGO_LIBRARY_H

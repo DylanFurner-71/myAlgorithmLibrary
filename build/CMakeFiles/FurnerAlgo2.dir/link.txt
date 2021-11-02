@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libFurnerAlgo2.a CMakeFiles/FurnerAlgo2.dir/algoLibrary.cpp.o CMakeFiles/FurnerAlgo2.dir/Driver.cpp.o CMakeFiles/FurnerAlgo2.dir/searchInterface.cpp.o CMakeFiles/FurnerAlgo2.dir/sortInterface.cpp.o CMakeFiles/FurnerAlgo2.dir/functions.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libFurnerAlgo2.a
